@@ -70,7 +70,7 @@ To run tests, supply your credentials in ```tests/Unit/GhanaPostGPSTest```
 and run ```vendor/bin/phpunit```
 
 ### Prerequisites
-* PHP 5.6 or above
+* PHP 8.0 or above
 * [curl](https://secure.php.net/manual/en/book.curl.php) and
 [openssl](https://secure.php.net/manual/en/book.openssl.php)
 extensions.
