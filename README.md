@@ -30,9 +30,9 @@ Before connecting to GhanaPostGPS, you'll need the following:
 Use the ````GhanaPostGPS\GhanaPostGPS```` object to get data.
 ```php
 
-$asaaseUser = 'YOUR-ASAASE-USER-ID'
-$deviceId = 'YOUR-DEVICE-ID'
-$aesKey = 'YOUR-AES-KEY-FOR-DEVICE'
+$asaaseUser = 'ASAASE-USER-ID'
+$deviceId = 'DEVICE-ID'
+$aesKey = 'AES-KEY-FOR-DEVICE'
 
 $gps = new GhanaPostGPS\GhanaPostGPS($asaaseUser, $deviceId, $aesKey);
 ```
