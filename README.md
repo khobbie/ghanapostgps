@@ -8,7 +8,7 @@ in Ghana.
 You can install the package via composer using
 
 ```php
-composer require omnilesolutions/ghanapostgps
+composer require ampahkwabena/ghanapostgps
 ```
 
 ## What you will need
