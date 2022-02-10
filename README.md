@@ -76,7 +76,7 @@ and run ```vendor/bin/phpunit```
 extensions.
 
 ## Contributing
-Contributions are welcome! Please do a PR with any bug-fixes or email me at [brightantwiboasiako@aol.com](mailto:brightantwiboasiako@aol.com) 
+Contributions are welcome! Please do a PR with any bug-fixes or email me at [ampahkwabena5@gmail.com](mailto:ampahkwabena5@gmail.com) 
 for a long term commitment.
 
 ## License

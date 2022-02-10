@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/brightantwiboasiako/ghanapostgps.git"
+        "url": "git+https://github.com/khobbie/ghanapostgps.git"
     },
     "keywords": [
         "GhanaPostGPS",
@@ -22,9 +22,9 @@
     "author": "Kwabena Ampah <ampahkwabena5@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/brightantwiboasiako/ghanapostgps/issues"
+        "url": "https://github.com/khobbie/ghanapostgps/issues"
     },
-    "homepage": "https://github.com/brightantwiboasiako/ghanapostgps#readme",
+    "homepage": "https://github.com/khobbie/ghanapostgps#readme",
     "devDependencies": {
         "gulp": "^4.0.2",
         "gulp-phpunit": "^0.26.0"
